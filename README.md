@@ -2,3 +2,4 @@
 this is my new repository
 this is my new line
 start the updates
+this is a duplicated line
